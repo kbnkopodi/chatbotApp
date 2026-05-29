@@ -40,12 +40,15 @@ Unsure
 🔊 Voice Assistant
 Uses SpeechSynthesizer to speak responses
 Creates a more interactive AI experience
+
+
 💬 Chat Interface (WPF UI)
 Modern dark cyber-themed UI
 Chat bubbles for user and bot messages
 Timestamped messages
 Scrollable chat panel
 Sidebar system dashboard
+
 🔐 System Features
 New Chat reset function
 Full memory reset option
