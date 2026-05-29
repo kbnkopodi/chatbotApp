@@ -54,6 +54,7 @@ New Chat reset function
 Full memory reset option
 Safe file-based storage system
 Session persistence
+
 🖥️ UI Preview
 
 Cyber-themed interface with:
@@ -62,6 +63,8 @@ Left sidebar dashboard (system status)
 Main chat window
 Input box + send button
 Cybersecurity branding panel
+
+
 📁 Project Structure
 WpfApp1/
 │
@@ -71,6 +74,8 @@ WpfApp1/
 ├── chatmemory.txt          # Stores conversation history
 ├── userprofile.txt         # Stores user name + favorite topic
 ├── Bye.wav                 # Exit sound effect
+
+
 ⚙️ Technologies Used
 C# (.NET WPF)
 Windows Presentation Foundation (WPF)
